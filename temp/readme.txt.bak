@@ -1,0 +1,17 @@
+
+/**
+ * Class to Guess the Number
+ *
+ * @author Jitendra Sonis
+ * @version 1.0
+ * @date 10/30/2015
+ * 
+ * Copyright (c) 2015 @Jitendra Sonis
+ */
+
+Copy the jar to a directory 
+cd to the directory
+open a command prompt 
+Type java -jar NumberGuess.jar
+Enter
+Enjoy!!
